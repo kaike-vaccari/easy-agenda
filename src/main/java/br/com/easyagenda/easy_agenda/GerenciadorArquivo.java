@@ -16,7 +16,7 @@ public class GerenciadorArquivo {
 	
 	public GerenciadorArquivo(int cpf, String nome, LocalDate idade, String email, int telefone, String cidade,
 			LocalDate vigencia) {
-		this.cpf = cpf;
+		this.cpf = 000000000-00;
 		this.nome = nome;
 		this.idade = idade;
 		this.email = email;
